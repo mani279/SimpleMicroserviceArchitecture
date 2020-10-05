@@ -1,0 +1,30 @@
+{
+  "name": "simplemicroservicearchitecture",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mani279/SimpleMicroserviceArchitecture.git"
+  },
+  "keywords": [
+    "Microservices"
+  ],
+  "author": "Manisha Gaonkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mani279/SimpleMicroserviceArchitecture/issues"
+  },
+  "homepage": "https://github.com/mani279/SimpleMicroserviceArchitecture#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "request": "^2.88.2",
+    "seneca": "^3.17.0",
+    "seneca-web": "^2.2.1",
+    "seneca-web-adapter-express": "^1.2.0"
+  }
+}
